@@ -1,0 +1,40 @@
+* {
+    outline: 1px solid red;
+}
+
+body {
+    text-align: center;
+    background-color: orange;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+#button-div {
+    border: 2px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#container{
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20 px;
+}
+table, th,td {
+    border: 2px solid orange;
+}
+#flip, #clear{
+    font-size: 25px;
+    border-radius: 20px;
+    color: aliceblue;
+}
+#flip:hover, #clear:hover {
+    color: red;
+    background-color: ;
+}
